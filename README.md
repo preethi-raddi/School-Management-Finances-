@@ -1,2 +1,2 @@
 # School-Management-Finances-
-System to handle the finances of a school.
+Basic System to handle the finances of a school.
